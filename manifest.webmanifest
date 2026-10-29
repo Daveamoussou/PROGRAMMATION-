@@ -1,0 +1,14 @@
+{
+  "name": "CodeCampus — Apprendre partout",
+  "short_name": "CodeCampus",
+  "description": "Cours de programmation, exercices et atelier de code hors connexion.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#101827",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
